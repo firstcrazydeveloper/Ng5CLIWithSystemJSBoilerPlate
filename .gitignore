@@ -240,3 +240,20 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Ng5CLIWithSystemJSBoilerPlate/dist/out-tsc
+/Ng5CLIWithSystemJSBoilerPlate/src/app/app.module.js.map
+/Ng5CLIWithSystemJSBoilerPlate/src/app/app.module.js
+/Ng5CLIWithSystemJSBoilerPlate/src/app/app.component.spec.js.map
+/Ng5CLIWithSystemJSBoilerPlate/src/app/app.component.spec.js
+/Ng5CLIWithSystemJSBoilerPlate/src/app/app.component.js.map
+/Ng5CLIWithSystemJSBoilerPlate/src/app/app.component.js
+/Ng5CLIWithSystemJSBoilerPlate/src/environments/environment.prod.js.map
+/Ng5CLIWithSystemJSBoilerPlate/src/environments/environment.prod.js
+/Ng5CLIWithSystemJSBoilerPlate/src/environments/environment.js.map
+/Ng5CLIWithSystemJSBoilerPlate/src/environments/environment.js
+/Ng5CLIWithSystemJSBoilerPlate/src/test.js.map
+/Ng5CLIWithSystemJSBoilerPlate/src/test.js
+/Ng5CLIWithSystemJSBoilerPlate/src/polyfills.js.map
+/Ng5CLIWithSystemJSBoilerPlate/src/polyfills.js
+/Ng5CLIWithSystemJSBoilerPlate/src/main.js.map
+/Ng5CLIWithSystemJSBoilerPlate/src/main.js
