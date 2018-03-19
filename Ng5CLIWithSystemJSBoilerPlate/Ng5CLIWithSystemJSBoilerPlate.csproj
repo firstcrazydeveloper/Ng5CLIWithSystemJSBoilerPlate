@@ -105,14 +105,6 @@
     </Content>
     <Content Include=".angular-cli.json" />
     <Content Include="package.json" />
-    <Content Include="src\app\app.component.js.map" />
-    <Content Include="src\app\app.component.spec.js.map" />
-    <Content Include="src\app\app.module.js.map" />
-    <Content Include="src\environments\environment.js.map" />
-    <Content Include="src\environments\environment.prod.js.map" />
-    <Content Include="src\main.js.map" />
-    <Content Include="src\polyfills.js.map" />
-    <Content Include="src\test.js.map" />
     <Content Include="src\tsconfig.app.json" />
     <Content Include="src\tsconfig.json" />
     <Content Include="src\tsconfig.spec.json" />
@@ -129,20 +121,12 @@
     <Content Include="protractor.conf.js" />
     <Content Include="src\app\app.component.css" />
     <Content Include="src\app\app.component.html" />
-    <Content Include="src\app\app.component.js" />
-    <Content Include="src\app\app.component.spec.js" />
-    <Content Include="src\app\app.module.js" />
-    <Content Include="src\environments\environment.js" />
-    <Content Include="src\environments\environment.prod.js" />
     <Content Include="src\favicon.ico" />
     <Content Include="src\index.html" />
-    <Content Include="src\main.js" />
-    <Content Include="src\polyfills.js" />
     <Content Include="src\styles.css" />
     <Content Include="src\systemjs-angular-loader.js" />
     <Content Include="src\systemjs.config.extras.js" />
     <Content Include="src\systemjs.config.js" />
-    <Content Include="src\test.js" />
     <Content Include="src\vendors\js\app.js" />
     <Content Include="src\vendors\js\ie-support\html5.js" />
     <Content Include="src\vendors\js\ie-support\pie.htc" />
